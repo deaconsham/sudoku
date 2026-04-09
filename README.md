@@ -1,4 +1,4 @@
-# Sudoku Game & Solver
+# sudoku game and solver
 
 This project is a console-based Sudoku game and solver built in Java. It allows users to play a game of Sudoku with a generated puzzle or input their own puzzle to be solved by a backtracking algorithm.
 
